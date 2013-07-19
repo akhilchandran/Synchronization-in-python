@@ -1,0 +1,6 @@
+This program simulates producers and consumers adding and removing by producing and consuming the product in random time.
+
+
+Usage:
+
+     python product.py 
